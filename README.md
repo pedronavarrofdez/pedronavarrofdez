@@ -1,4 +1,40 @@
 ## Hi there 👋
+idk
+
+### No tengo ni idea de como funciona esto 
+<!--
+- *idk*
+- **idk**
+  - **_idk_**
+    - ~~idk~~
+- <ins>idk</ins>  
+ummm `idk` ctrl+e
+
+
+ummm <sup>idk</sup> ummm  
+ummm <sub>idk</sub> ummm  
+- [idk](https://osintframework.com/)  
+[ ] idk  
+[x] idk
+
+
+> [!NOTE]
+> idk
+
+> [!TIP]
+> idk
+
+> [!IMPORTANT]
+> idk  
+
+> [!WARNING]
+> idk  
+-->
+> [!CAUTION]
+> idk  
+
+
+
 
 <!--
 **pedronavarrofdez/pedronavarrofdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
