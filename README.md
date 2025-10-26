@@ -9,7 +9,7 @@
 - 😪​ Developing myself out of a job
 
 ### 𝐶𝑜𝑛𝑡𝑎𝑐𝑡
-- Linkedln: [pedronavarro-asir](https://www.linkedin.com/in/pedronavarro-asir/)
+- Linkedln: [pedronavarro](https://www.linkedin.com/in/pedronavarro-asir/)
 - Instragram: [pedronavarro](https://www.omfgdogs.com/)
 
 ---
