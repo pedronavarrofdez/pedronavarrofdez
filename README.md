@@ -18,7 +18,7 @@
 
 [Framework](https://osintframework.com/) & [Mitre](https://attack.mitre.org/)  
 [VTotal](https://www.virustotal.com/gui/home/upload) | [Jotti](https://virusscan.jotti.org/es-ES) | [URL](https://urlscan.io/) | 
-[Pwned](https://haveibeenpwned.com/) | [Whois](https://who.is/)
+[Pwned](https://haveibeenpwned.com/) | [Whois](https://who.is/) | [wCMS](https://whatcms.org/)  
 
 <br />
 
