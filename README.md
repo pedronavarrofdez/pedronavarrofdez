@@ -1,7 +1,10 @@
 ## Hi there 👋
 idk
 
-### No tengo ni idea de como funciona esto 
+### No tengo ni idea de como funciona esto  
+<img src="https://i.imgur.com/vpSa0kk.mp4">
+
+
 <!--
 - *idk*
 - **idk**
