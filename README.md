@@ -37,8 +37,8 @@
 ~~idk~~          tachar
 <ins>idk</ins>   subrayar
 `idk`            ctrl+e para hacer comentario
-<sup>idk</sup>   under
-<sub>idk</sub>   over
+<sup>idk</sup>   over
+<sub>idk</sub>   under
 [ ] idk  
 [x] idk
 
