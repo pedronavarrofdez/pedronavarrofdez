@@ -10,7 +10,7 @@
 
 ### 𝐶𝑜𝑛𝑡𝑎𝑐𝑡
 - Linkedln: [pedronavarro](https://www.linkedin.com/in/pedronavarro-asir/)
-- Instragram: [pedronavarro](https://www.omfgdogs.com/)
+- Instagram: [pedronavarro](https://www.omfgdogs.com/)
 
 ---
 
