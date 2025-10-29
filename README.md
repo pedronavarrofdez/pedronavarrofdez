@@ -11,6 +11,7 @@
 ### 𝐶𝑜𝑛𝑡𝑎𝑐𝑡
 - Linkedln: [pedronavarro](https://www.linkedin.com/in/pedronavarro-asir/)
 - Instagram: [pedronavarro](https://www.omfgdogs.com/)
+- Mis apuntes: [.txt](https://github.com/pedronavarrofdez/txt-compilation)  
 
 ---
 
