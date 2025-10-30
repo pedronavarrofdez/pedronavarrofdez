@@ -21,7 +21,9 @@
 [VTotal](https://www.virustotal.com/gui/home/upload) | [Jotti](https://virusscan.jotti.org/es-ES) | [URL](https://urlscan.io/)  
 [Whois](https://who.is/) | [wCMS](https://whatcms.org/) | [intelX](https://intelx.io/) | [Censys](https://search.censys.io/)  
 [Shodan](https://www.shodan.io/) | [Maltego](https://www.maltego.com/)  
-[Pwned](https://haveibeenpwned.com/)  
+[Pwned](https://haveibeenpwned.com/) | [LeakCheck](https://leakcheck.io/) | [dehashd](https://dehashed.com/search)  
+
+
 <br />
 
 ┌∩┐(◣_◢)┌∩┐
