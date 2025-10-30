@@ -18,9 +18,10 @@
 ### Useful links (._.)
 
 [Framework](https://osintframework.com/) & [Mitre](https://attack.mitre.org/)  
-[VTotal](https://www.virustotal.com/gui/home/upload) | [Jotti](https://virusscan.jotti.org/es-ES) | [URL](https://urlscan.io/) | 
-[Pwned](https://haveibeenpwned.com/) | [Whois](https://who.is/) | [wCMS](https://whatcms.org/)  
-
+[VTotal](https://www.virustotal.com/gui/home/upload) | [Jotti](https://virusscan.jotti.org/es-ES) | [URL](https://urlscan.io/)  
+[Whois](https://who.is/) | [wCMS](https://whatcms.org/) | [intelX](https://intelx.io/) | [Censys](https://search.censys.io/)  
+[Shodan](https://www.shodan.io/) | [Maltego](https://www.maltego.com/)  
+[Pwned](https://haveibeenpwned.com/)  
 <br />
 
 ┌∩┐(◣_◢)┌∩┐
